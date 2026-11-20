@@ -1,3 +1,4 @@
+/* Enter two matrices and add their elements to form a new matrix*/
 #include <stdio.h>
 int  main()
 {
